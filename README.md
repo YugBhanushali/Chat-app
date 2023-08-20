@@ -1,9 +1,6 @@
-# Chat-app
-
-![Chat App](./demo/demo.mp4)
-
-
 # Chat App with Socket.io
+
+https://github.com/YugBhanushali/Chat-app/assets/95876621/d48da501-88fe-439e-bffa-0a65c85dfdd8
 
 Welcome to the Chat App project! This application allows real-time communication between multiple users using WebSockets through Socket.io. The backend is built with Node.js, while the frontend is developed using React with Vite as the build tool.
 
